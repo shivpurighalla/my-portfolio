@@ -1,0 +1,41 @@
+h1{
+    background-color:cornflowerblue;
+  text-align: center;
+  color:brown;
+  }
+  ul{
+      text-align: left;
+      color: red;
+      text-decoration: underline;
+  }
+  p{
+      color:seagreen;
+      font-weight: bold;
+  }
+  h2{
+      color:blueviolet;
+      font-size:x-large;
+      font-style:italic;
+      font-family: cursive;
+  }
+  .grid{
+      display:flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+  }
+  .item{
+      justify-content:center;
+  }
+  .footer{
+      display:flex;
+      justify-content:flex-end;
+  }
+  .item img{
+      width:250px;
+      height:250px;
+  }
+  .links{
+      background-color:violet;
+      display:flex;
+      justify-content:space-evenly;
+  }
